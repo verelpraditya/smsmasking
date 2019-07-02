@@ -1,10 +1,17 @@
 Created By Verel Praditya
+
 PAKE SEPERLUNYA NJENGGG
 
 cara menggunakan :
-pkg install php
-pkg install git
-git clone https://github.com/verelpraditya/smsmasking.git
-cd smsmasking
-unzip twilio.zip
-php send.php
+
+1. pkg install php
+
+2. pkg install git
+
+3. git clone https://github.com/verelpraditya/smsmasking.git
+
+4. cd smsmasking
+
+5. unzip twilio.zip
+
+6. php send.php
